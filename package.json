@@ -11,7 +11,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "expo": "^29.0.0",
     "giphy-js-sdk-core": "^1.0.6",
     "react": "16.5.0",
